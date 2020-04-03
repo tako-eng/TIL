@@ -1,0 +1,3 @@
+mkdir -p /home/foo/bar
+無ければ掘る(ファイルでいうtouchみたいな気持ち)
+
