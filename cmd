@@ -1,5 +1,5 @@
-mkdir -p /home/foo/bar
-無ければ掘る(ファイルでいうtouchみたいな気持ち)
+###### Linux,Unix
+mkdir -p /foo/bar ディレクトリ無ければ掘る
 
 ###### mac
 ⌘ + w 今のウィンドウを閉じる
